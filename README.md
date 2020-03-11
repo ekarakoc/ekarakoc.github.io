@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+---
+
+## Welcome to Emre Karakoc's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ekarakoc/ekarakoc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
