@@ -16,7 +16,7 @@ title:            EMRE KARAKOC
 tagline:          Emre Karakoc - GitHub page
 description:      "This is the test page for my github pages"
 #url:              https://github.com/saezlab/projectDocumentationTemplate
-#baseurl:          /DoRothEA/
+baseurl:          /ekarakoc/
 #toollogo:         /DoRothEA/tool_logo.png
 
 author:
